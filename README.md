@@ -29,9 +29,9 @@ Currently preparing for software engineering internships (Winter '25, Summer '26
 
 ### 🧩 Featured Projects
 
-🔹 **Movie Watchlist App**  
-Add/remove movies to your watchlist with a responsive UI built in vanilla JS  
-[GitHub Repo](https://github.com/prakhrrr04/movies-watchlist) | Built with HTML5 + CSS + React.js
+🔹 **Optimised EV Charging Hub**  
+Simulates multiple EV scheduling and reduces costs by using linear programming tools.
+[GitHub Repo](https://github.com/prakhrrr04/optimised_EV_Hub) | Built with Python, NumPy, PuLP, Matplotlib
 
 🔹 **Return Location Optimizer**  
 Recommends optimal product return points using inventory and demand analysis  
