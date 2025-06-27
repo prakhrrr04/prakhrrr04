@@ -5,7 +5,8 @@ Currently preparing for software engineering internships (Winter '25, Summer '26
 
 🔭 I’m currently working on:  
 - A React-based **Movie Watchlist Web App**  
-- A **Streamlit project** optimizing e-commerce return logistics using sales & stock data  
+- A **Chrome Extension** to track live Codeforces contest rankings among friends  
+- An AI-powered mentor chatbot that gives **DSA & career advice in natural language**  
 
 🌱 I’m also learning:  
 - Competitive Programming (Codeforces, Leetcode)  
@@ -29,16 +30,25 @@ Currently preparing for software engineering internships (Winter '25, Summer '26
 
 ### 🧩 Featured Projects
 
+🔹 **Codeforces Rank Watcher**  
+A Chrome Extension that tracks Codeforces standings and shows alerts when friends overtake you — even while you're solving problems.  
+[GitHub Repo](https://github.com/prakhrrr04/codeforces-rank-watcher) | JavaScript + Chrome Extension APIs + Codeforces API
+
+🔹 **AI-Mentor** *(in development)*  
+An AI chatbot built with OpenAI tools and React that provides real-time career, DSA, and resume guidance to college students.  
+[GitHub Repo](https://github.com/prakhrrr04/ai-mentor) | React + Node.js + OpenAI API
+
+🔹 **HealStay** *(Work in Progress)*  
+A full-stack platform connecting patient families with empathetic and affordable accommodation options near hospitals.  
+[Coming soon..] | React + Firebase + Tailwind CSS
+
 🔹 **Optimised EV Charging Hub**  
-Simulates multiple EV scheduling and reduces costs by using linear programming tools.
-[GitHub Repo](https://github.com/prakhrrr04/optimised_EV_Hub) | Built with Python, NumPy, PuLP, Matplotlib
+Simulates multi-EV scheduling with solar + battery integration using linear programming to reduce energy costs.  
+[GitHub Repo](https://github.com/prakhrrr04/optimised_EV_Hub) | Python + PuLP + Matplotlib
 
 🔹 **Return Location Optimizer**  
-Recommends optimal product return points using inventory and demand analysis  
-[GitHub Repo](https://github.com/prakhrrr04/Walmart_project) | Built with Streamlit + Pandas + PyDeck
-
-🔹 **Admin Portfolio Dashboard** *(Work in Progress)*  
-Full-stack app with blog/project editing, Firebase Auth & Firestore
+Recommends optimal product return hubs using inventory + demand clustering via Streamlit dashboards.  
+[GitHub Repo](https://github.com/prakhrrr04/Walmart_project) | Streamlit + Pandas + PyDeck
 
 ---
 
@@ -52,23 +62,10 @@ Full-stack app with blog/project editing, Firebase Auth & Firestore
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/prakhar-singh-23703628b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhar-singh-23703628b)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/prakhrrr04)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prakhrrr.2004@email.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/cod_ee/)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/cod_ee)
+
 ---
-<!--
-**prakhrrr04/prakhrrr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
