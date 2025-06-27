@@ -40,7 +40,7 @@ An AI chatbot built with OpenAI tools and React that provides real-time career, 
 
 🔹 **HealStay** *(Work in Progress)*  
 A full-stack platform connecting patient families with empathetic and affordable accommodation options near hospitals.  
-[Coming soon..] | React + Firebase + Tailwind CSS
+[GitHub Repo](https://github.com/prakhrrr04/healstay) | React + Firebase + Tailwind CSS
 
 🔹 **Optimised EV Charging Hub**  
 Simulates multi-EV scheduling with solar + battery integration using linear programming to reduce energy costs.  
